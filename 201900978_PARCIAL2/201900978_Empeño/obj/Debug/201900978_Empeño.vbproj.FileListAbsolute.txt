@@ -1,0 +1,13 @@
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\bin\Debug\201900978_Empeño.exe.config
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\bin\Debug\201900978_Empeño.exe
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\bin\Debug\201900978_Empeño.pdb
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\bin\Debug\201900978_Empeño.xml
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\201900978_Empeño.vbproj.AssemblyReference.cache
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\201900978_Empeño.vbproj.SuggestedBindingRedirects.cache
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\_201900978_Empeño.Form1.resources
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\_201900978_Empeño.Resources.resources
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\201900978_Empeño.vbproj.GenerateResource.cache
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\201900978_Empeño.vbproj.CoreCompileInputs.cache
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\201900978_Empeño.exe
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\201900978_Empeño.xml
+C:\Users\JOHAN DONIS\Desktop\201900978_PARCIAL2\201900978_Empeño\obj\Debug\201900978_Empeño.pdb
